@@ -1,4 +1,4 @@
-package com.smartcloud;
+package com.smartcloud.Controller;
 
 
 import org.springframework.boot.SpringApplication;
